@@ -1,5 +1,3 @@
-# Volatility and Options Pricing with Least-Square-Monte-Carlo
+# Volatility and Options Modelling with Least-Square-Monte-Carlo
 
-## Overview
-
-This project demonstrates the use of statistical models to forecast volatility in the S&P 500 (SPY) by analyzing data over a 60 day sliding window to then price options on SPY, based on the Least-Square-Monte-Carlo method described in Longstaff-Schwartz (2001).
+This project demonstrates the use of statistical models to forecast volatility in the S&P 500 (SPY) by analyzing data over a 60 day sliding window to then price options on SPX, based on Least-Square-Monte-Carlo simulations described in Longstaff-Schwartz (2001) using a dynamic programming approach.
